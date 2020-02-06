@@ -1,1 +1,2 @@
 aStory
+CC0
